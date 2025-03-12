@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WebRcade SNES Launcher</title>
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        /* Estilo para a mensagem de carregamento */
+        #loading {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 24px;
+            font-weight: bold;
+            display: none;
+        }
+        /* Animação de ponto piscando */
+        @keyframes blink {
+            0% { opacity: 1; }
+            50% { opacity: 0; }
+            100% { opacity: 1; }
+        }
+        .dot {
+            animation: blink 1s infinite;
+        }
+        .dot:nth-child(2) {
+            animation-delay: 0.2s;
+        }
+        .dot:nth-child(3) {
+            animation-delay: 0.4s;
+        }
+    </style>
+</head>
+<body>
+    <div id="loading">
+        Loading<span class="dot">.</span><span class="dot">.</span><span class="dot">.</span>
+    </div>
+    <div hidden id="container">
+        <h1>WebRcade SNES Emulator</h1>
+        <div hidden id="instructions">
+        </div>
+        <button hidden id="launch-btn" onclick="launchWebrcade()">Launch WebRcade SNES</button>
+        <div id="gamepad-status">
+            Gamepad Status: Checking...
+        </div>
+    </div>
+    <script src="js/main.js"></script>
+    <script>
+        // Espera 1 segundo e clica no botão de lançamento
+        setTimeout(function() {
+            document.getElementById('container').style.display = 'none';
+            document.getElementById('loading').style.display = 'block';
+            document.getElementById('launch-btn').click();
+        }, 1000);
+    </script>
+</body>
+</html>

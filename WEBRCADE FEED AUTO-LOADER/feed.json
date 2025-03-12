@@ -1,0 +1,18 @@
+{
+  "title": "Local SNES Games",
+  "categories": [
+    {
+      "title": "SNES Games",
+      "items": [
+        {
+          "title": "Invictus",
+          "description": "SNES Game",
+          "type": "snes",
+          "props": {
+            "rom": "https://layermaker.github.io/webrcade-webassembly/rom/invictus.sfc"
+          }
+        }
+      ]
+    }
+  ]
+}
