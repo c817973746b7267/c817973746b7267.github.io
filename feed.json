@@ -73669,7 +73669,14 @@
     ],
     "pcfx_bios": "https://raw.githack.com/JuniorGames/RAHueHue-Online/main/data/bios/PCFX/pcfx.rom",
     "neogeocd_bios": "https://raw.githack.com/JuniorGames/RAHueHue-Online/main/data/bios/NGCD/neocd.bin",
-    "pcecd_bios": "https://raw.githack.com/JuniorGames/RAHueHue-Online/main/data/bios/PCENG/Super%20CD-ROM%20System%20(Japan)%20(v3.0).pce"
+    "pcecd_bios": "https://raw.githack.com/JuniorGames/RAHueHue-Online/main/data/bios/PCENG/Super%20CD-ROM%20System%20(Japan)%20(v3.0).pce",
+    "fds_bios": "https://archive.org/download/cylums-famicom-disk-system-rom-collection/Cylum%27s%20Famicom%20Disk%20System%20ROM%20Collection%20%2802-16-2021%29.zip/BIOS%20Files%2FDISKSYS.ROM",
+    "saturn_bios": "https://rawcdn.githack.com/JuniorGames/RAHueHue-Online/952c3dfd25e63595a2b12230e068447c49f62b6f/data/bios/SSA/Sega%20Saturn%20BIOS%20(USA).bin",
+    "philipscdi_bios": "https://playgames.onl/games/cdi/bios/cdimono1.zip",
+    "flycast_bios": [
+      "https://playgames.onl/games/dreamcast/bios/dc_boot.bin",
+      "https://playgames.onl/games/dreamcast/bios/dc_flash.bin"
+    ]
   },
   "backgroundPixelated": true
 }
