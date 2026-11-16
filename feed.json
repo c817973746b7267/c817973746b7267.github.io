@@ -213,7 +213,7 @@
           "type": "snes",
           "title": "Super Metroid: Ascent",
           "added": 1686683272418,
-          "thumbnail": "https://dl.dropbox.com/scl/fi/yvpymu1x08srglm00hqqs/Photo-Jun-13-2023-2-13-31-PM.png?dl=1&rlkey=rehbpx7e69idmr12akl6a7cmh",
+          "thumbnail": "https://www.dropbox.com/scl/fi/yvpymu1x08srglm00hqqs/Photo-Jun-13-2023-2-13-31-PM.png?dl=1&rlkey=rehbpx7e69idmr12akl6a7cmh",
           "background": "https://www.romhacking.net/hacks/snes/images/6347screenshot2.png",
           "description": "Ascent is a full hack of Super Metroid. More Super Metroid with the same gameplay, but whole new level design, new visuals and even some new mechanics. It has approximately the same amount of rooms as the original game, but bigger rooms. The difficulty is harder than the original game, but not too much. The hack gameplay will focus on puzzles, exploration and challenges. The focus on puzzles is stronger than most hacks. However there is multiple ways to advance or solve a problem."
         },
@@ -29343,6 +29343,432 @@
       "description": "The PlayStation is a home video game console developed and marketed by Sony Computer Entertainment. It was released in Japan on 3 December 1994, in North America on 9 September 1995. The console proved popular for its extensive game library, popular franchises, low retail price, and aggressive youth marketing which advertised it as the preferable console for adolescents and adults",
       "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/psx-thumb.png",
       "background": "https://i.imgur.com/KIEALKN.png"
+    },
+    {
+      "title": "Sega DreamCast",
+      "longTitle": "Sega DreamCast HueHue",
+      "description": "O Dreamcast é da sexta geração de consoles de videogame, sucessor direto do Sega Saturn e competiu com o PlayStation 2 da Sony. Foi lançado em 27 de novembro de 1998 no Japão, 9 de setembro de 1999 na América do Norte, 14 de outubro de 1999 na Europa e 30 de novembro de 1999 na Oceania.",
+      "thumbnail": "https://rawcdn.githack.com/JuniorGames/RAHueHue-Online/03d4d04dd9eb9cd9b906bc2ea0840e68dd1b5219/Backgrounds/Sega%20-%20DreamCast%20ICON.png",
+      "background": "https://rawcdn.githack.com/JuniorGames/RAHueHue-Online/03d4d04dd9eb9cd9b906bc2ea0840e68dd1b5219/Backgrounds/Sega%20-%20Dreamcast.png",
+      "items": [
+        {
+          "props": {
+            "discs": [
+              "https://playgames.onl/games/dreamcast/Crazy Taxi (USA).chd"
+            ],
+            "uid": "bd54cf84-7fdb-4f7f-9886-dfbe4dda2021",
+            "cheat": "https://raw.githubusercontent.com/webrcade-assets/libdb/master/cht/Sega%20-%20Dreamcast/Crazy%20Taxi.cht"
+          },
+          "type": "dreamcast",
+          "title": "Crazy Taxi",
+          "description": "As a fearless cab driver with attitude, your goal is to rack up the mega-bucks before your shift ends. It's a race against the clock as you pick up passengers and white-knuckle it through busy streets and back alleys to their various destinations. To keep that meter collecting cash, you've gotta take the fastest route possible, even if it means bending the traffic laws--just a little. So get a grip on the wheel, sharpen your senses, and don't lose your cool.",
+          "thumbnail": "https://images.launchbox-app.com//429887ea-2d96-400e-98d6-f29a5a77fee5.png",
+          "background": "https://images.launchbox-app.com//3c7c4a5d-11c6-4fbd-bdac-45d1c82557da.png",
+          "added": 1792715349949,
+          "backgroundPixelated": true
+        },
+        {
+          "props": {
+            "uid": "1ffbf707-71af-4be6-8548-41c40a6c13a3",
+            "cheat": "https://raw.githubusercontent.com/webrcade-assets/libdb/master/cht/Sega%20-%20Dreamcast/Jet%20Grind%20Radio.cht",
+            "discs": [
+              "https://playgames.onl/games/dreamcast/Jet Grind Radio (USA).chd"
+            ]
+          },
+          "type": "dreamcast",
+          "title": "Jet Grind Radio",
+          "description": "In the 21st century, the Tokyoto city government bans kids from expressing themselves in any way. Only three things keep their spirits alive: Overdriver magnetic-motor skates, graffiti, and a pirate-radio broadcast that's called Jet Grind Radio. Explore and, uh, decorate three fully interactive worlds in which traffic moves at real time and pedestrians wander the streets. Watch out for police who'll want to nab you for breaking the law, and rival crews that want to deface your artwork. The \"Cartoon Dimension\" art style gives the game the appearance of a 2-D comic, but the characters move through it in complete 3-D. Animations run at 30 frames per second. Ten characters are available at the outset, each of which has its own style and abilities.",
+          "thumbnail": "https://images.launchbox-app.com//b8e9872a-e2e2-4abc-9098-0edd255a2044.png",
+          "background": "https://images.launchbox-app.com//4174bbf5-8ce3-4e80-8fff-a2b6426869a0.jpg",
+          "added": 1792833917548,
+          "backgroundPixelated": true
+        },
+        {
+          "props": {
+            "uid": "b8690f8a-1392-474a-8d3a-182b5a30a10f",
+            "discs": [
+              "https://playgames.onl/games/dreamcast/MDK2 (USA).chd"
+            ],
+            "cheat": "https://raw.githubusercontent.com/webrcade-assets/libdb/master/cht/Sega%20-%20Dreamcast/MDK%202.cht"
+          },
+          "type": "dreamcast",
+          "title": "MDK2",
+          "description": "After Kurt Hectic, the janitor extraordinaire, has bravely ventured into the perilous minecrawlers and averted the alien threat to the Earth, he returns to his friends, the genius scientist Dr. Fluke Hawkins, and his invention, the six-legged robotic dog Max, to celebrate their great victory. However, they find out that one minecrawler in Canada still hasn't been destroyed. Kurt is sent to complete the mission, but as a result gets kidnapped by an alien being known as Shwang Shwing. Doc and Max rush to his rescue, and soon realize that they are up against a much bigger threat, involving an alien empire and galactic conquest. The fate of the Earth is in their hands!",
+          "thumbnail": "https://images.launchbox-app.com//69eb190e-7218-4ee6-bc5e-ec8467babb72.png",
+          "background": "https://images.launchbox-app.com//54d4da28-4200-4520-af0e-c97173e5dc75.png",
+          "added": 1792834628983,
+          "backgroundPixelated": true
+        },
+        {
+          "props": {
+            "uid": "bdc7d03e-048d-4c9f-bd63-8a670da00067",
+            "discs": [
+              "https://playgames.onl/games/dreamcast/Quake III - Arena (USA).chd"
+            ],
+            "cheat": "https://raw.githubusercontent.com/webrcade-assets/libdb/master/cht/Sega%20-%20Dreamcast/Quake%20III%20Arena.cht"
+          },
+          "type": "dreamcast",
+          "title": "Quake III Arena",
+          "description": "Unlike its predecessors, Q3A does not have a plot-based single-player campaign. Instead, it simulates the multiplayer experience with computer controlled players known as bots. The game's story is brief - 'the greatest warriors of all time fight for the amusement of a race called the Vadrigar in the Arena Eternal.'",
+          "background": "https://images.launchbox-app.com//d4dbaba5-42b1-4099-8fd1-64d051409ebe.jpg",
+          "backgroundPixelated": true,
+          "thumbnail": "https://images.launchbox-app.com//90902b28-dc16-4d33-bc55-805072ec19fd.png",
+          "added": 1792834720701
+        },
+        {
+          "props": {
+            "uid": "0983d730-6fb3-4bdd-8ef6-b05828536229",
+            "discs": [
+              "https://playgames.onl/games/dreamcast/Resident Evil - Code - Veronica (USA) (Disc 1).chd",
+              "https://playgames.onl/games/dreamcast/Resident Evil - Code - Veronica (USA) (Disc 2).chd"
+            ]
+          },
+          "type": "dreamcast",
+          "description": "The game begins with Claire Redfield raiding an Umbrella Corporation facility in Paris in search of her brother, Chris Redfield. During the infiltration she is captured and imprisoned on Rockfort Island. Soon after arriving, a man named Rodrigo Juan Raval releases her from her cell, since she is not much of a threat considering the outbreak of the T-virus on Rockfort. Trying to escape from the contaminated island, Claire teams up with inmate Steve Burnside, at the same time being confronted with the island's commander Alfred Ashford. Meanwhile, Albert Wesker is on a mission of his own to retrieve a sample of the T-Veronica virus developed by Alfred's twin sister Alexia. His unit is also responsible for the outbreak of the T-virus on Rockfort Island.",
+          "title": "Resident Evil: Code - Veronica",
+          "background": "https://images.launchbox-app.com//f3a9fbf6-3474-42da-8ad8-5cda63084fd2.jpg",
+          "thumbnail": "https://images.launchbox-app.com//79a8cf16-5bf2-43fe-b6a2-281913df3c05.png",
+          "added": 1792834866315,
+          "backgroundPixelated": true
+        },
+        {
+          "props": {
+            "uid": "d1b84713-80bc-4178-a453-b100c82cf0ea",
+            "cheat": "https://raw.githubusercontent.com/webrcade-assets/libdb/master/cht/Sega%20-%20Dreamcast/Shenmue.cht",
+            "discs": [
+              "https://playgames.onl/games/dreamcast/Shenmue (USA) (Disc 1).chd",
+              "https://playgames.onl/games/dreamcast/Shenmue (USA) (Disc 2).chd",
+              "https://playgames.onl/games/dreamcast/Shenmue (USA) (Disc 3).chd"
+            ]
+          },
+          "type": "dreamcast",
+          "title": "Shenmue",
+          "description": "On a November day when the snow turned to rain, Ryo Hazuki arrives home just in time to see his father killed by Lan Di, a man Ryo's father obviously knew very well. Ryo attempts to stop Lan Di, but is effortlessly beaten to within an inch of his life. After recovering from his injuries Ryo sets out to track down his father's murderer, as well as uncover his family's secrets and the mystery of the Phoenix and Dragon mirrors that Lan Di seeks.\n\nProject Berkley was the code name for Shenmue that was included as a bonus GD-ROM disc with the Virtua Fighter 3tb game for the Sega Dreamcast. This disc was only made for Japan. The video gave details about the Shenmue game and beta footage of what's to come at the time.",
+          "thumbnail": "https://images.launchbox-app.com//932a3253-0527-4398-8872-8f1dde0836d3.png",
+          "background": "https://images.launchbox-app.com//ca70f4d3-7f26-425e-a9f8-e2c20c8a0d7d.jpg",
+          "backgroundPixelated": true,
+          "added": 1792834943518
+        },
+        {
+          "props": {
+            "uid": "b9dba83e-75f8-483f-bc75-db4654dee453",
+            "cheat": "https://raw.githubusercontent.com/webrcade-assets/libdb/master/cht/Sega%20-%20Dreamcast/Shenmue%20II%20(European).cht",
+            "discs": [
+              "https://playgames.onl/games/dreamcast/Shenmue II (Europe) (En,Fr,De,Es) (Disc 1).chd",
+              "https://playgames.onl/games/dreamcast/Shenmue II (Europe) (En,Fr,De,Es) (Disc 2).chd",
+              "https://playgames.onl/games/dreamcast/Shenmue II (Europe) (En,Fr,De,Es) (Disc 3).chd",
+              "https://playgames.onl/games/dreamcast/Shenmue II (Europe) (En,Fr,De,Es) (Disc 4).chd"
+            ]
+          },
+          "type": "dreamcast",
+          "title": "Shenmue II",
+          "description": "\"Across the sea, from a distant land in the East, he shall rise appear\"...the epic adventure of Shenmue is re-borne once again as Ryo Hazuki arrives in Hong Kong on his continued mission to avenge his father's death and discover the truth behind the Phoenix Mirror. In a world almost three times bigger than the original, you will have to interact with many people and gain the knowledge you need through a variety of experiences, but beware who you trust. Full of emotional encounters, Shenmue II is a compelling and majestic production that will engulf your entire existence...",
+          "thumbnail": "https://images.launchbox-app.com//cce2ed0c-cf75-4793-aca2-514a14bb4f09.png",
+          "backgroundPixelated": true,
+          "background": "https://images.launchbox-app.com//302af2f8-1396-4d99-802d-74d883433d19.jpg",
+          "added": 1792835067665
+        },
+        {
+          "props": {
+            "uid": "11b275d2-df9c-4090-8e2b-b1c0c9141d9f",
+            "discs": [
+              "https://playgames.onl/games/dreamcast/Sonic Adventure (USA).chd"
+            ]
+          },
+          "type": "dreamcast",
+          "title": "Sonic Adventure",
+          "description": "Centuries ago, the planet was bestowed the seven Chaos Emeralds. These emeralds were a source of unlimited power, and consequently it did not take long before wars broke out over who would control the Chaos Emeralds. There was also a Master Emerald, which was the controller of the Chaos Emeralds and could either negate or amplify the Chaos Emerald's power. One of the chao living near the shrine of the Emeralds accidentally made contact with the holy water in the shrine and mutated to become a peaceful creature that could use the power of water called Chaos and became the guardian of the rest of the chaos there. Later on, a tribe of echidnas, led by Pachamac, angered Chaos by attempting to steal the Chaos Emeralds, ruining the sanctuary it was protecting and attempted a mass massacre on the chao living there. They were all but completely destroyed within a single night and Chaos, in his fury, used the negative power of the Chaos Emeralds to transform into Perfect Chaos and slaughtered all the echidnas. Pachamac's daughter, Tikal, had pleaded with Pachamac but he refused to listen to her. Tikal then prayed to the Master Emerald after Perfect Chaos had left to destroy the entire world to seal herself with Chaos inside the Master Emerald.",
+          "thumbnail": "https://images.launchbox-app.com//da79a6e8-105a-452c-867f-7c3594044b10.png",
+          "background": "https://images.launchbox-app.com//f26286fd-fc51-4de8-92e1-e100c2204edf.jpg",
+          "backgroundPixelated": true,
+          "added": 1792835153000
+        },
+        {
+          "props": {
+            "uid": "466b879a-e03b-4d3d-a3f4-05ac655c5e3e",
+            "discs": [
+              "https://playgames.onl/games/dreamcast/Sonic Adventure 2 (USA) (En,Ja,Fr,De,Es).chd"
+            ]
+          },
+          "type": "dreamcast",
+          "title": "Sonic Adventure 2",
+          "description": "After discovering the existence of a secret weapon mentioned in the diary of his grandfather, Gerald Robotnik, Dr. Eggman infiltrates a high-security G.U.N. facility in search of it. This \"weapon\", a black hedgehog named Shadow who claims that he is the \"Ultimate Life Form\", offers to help Eggman take over the world, telling him to rendezvous with him at the abandoned Space Colony ARK with more Chaos Emeralds. Shadow proceeds in stealing one of the emeralds, and G.U.N. officials mistake him for Sonic. Sonic is apprehended shortly after he confronts Shadow, who demonstrates to Sonic the Chaos Control technique.",
+          "thumbnail": "https://images.launchbox-app.com//ca7d3e66-5977-4ecd-8571-85f32e73be37.png",
+          "background": "https://images.launchbox-app.com//cdd2994a-5134-4a9c-bd99-aaff47c368d2.jpg",
+          "backgroundPixelated": true,
+          "added": 1792835224273
+        }
+      ]
+    },
+    {
+      "title": "Sony PSP",
+      "longTitle": "Sony Playstation Portable HueHue",
+      "description": "O PlayStation Portable (PSP) é um console de videogame portátil desenvolvido pela Sony. O desenvolvimento do portátil foi anunciado durante a E3 de 2003, e ele foi apresentado em 11 de maio de 2004, em uma conferência de imprensa da Sony antes da E3 de 2004.",
+      "thumbnail": "https://rawcdn.githack.com/JuniorGames/RAHueHue-Online/03d4d04dd9eb9cd9b906bc2ea0840e68dd1b5219/Backgrounds/Sony%20-%20PSP%20ICON.png",
+      "background": "https://rawcdn.githack.com/JuniorGames/RAHueHue-Online/03d4d04dd9eb9cd9b906bc2ea0840e68dd1b5219/Backgrounds/Sony%20-%20PlayStation%20Portable.png",
+      "items": [
+        {
+          "props": {
+            "discs": [
+              "https://playgames.onl/games/psp/3rd Birthday, The (USA).chd"
+            ],
+            "uid": "85a5278d-41fa-4f40-bc47-dd201d5c5db1",
+            "cheat": "https://raw.githubusercontent.com/webrcade-assets/libdb/master/cht/Sony%20-%20PlayStation%20Portable/The%203rd%20Birthday%20%5BUS%5D%20%5BULUS-10567%5D.cht"
+          },
+          "type": "psp",
+          "title": "3rd Birthday",
+          "description": "The 3rd Birthday is a third-person role-playing shooter co-developed by Square Enix's \"1st Production Department\" and HexaDrive, and published by Square Enix for the PlayStation Portable. It was released in Japan in 2010 and in North America and Europe in 2011. The game is both the third entry in the Parasite Eve video game series, based on the titular Japanese novel, and a spin-off, having only a loose connection to events from past games. The game features a third-person shooter-based combat system with role-playing mechanics. A key mechanic is the Overdive ability, which allows the player to possess pre-positioned human allies and inflict damage upon enemies.\n\nThe game takes place in 2013, a year after creatures known as the Twisted have appeared from beneath Manhattan and decimated the city. To fight back against the Twisted, an investigatory team called the Counter Twisted Investigation (CTI) is formed. Among their number is series protagonist Aya Brea, who was found unconscious and suffering amnesia two years before the game's events. Using her Overdive ability, Aya travels into the past to alter the outcome of battles against the Twisted. At the same time, Aya attempts to find out the origin of the Twisted and regain her memories.",
+          "longTitle": "The 3rd Birthday",
+          "thumbnail": "https://images.launchbox-app.com//c2b7ded6-22c3-45a0-abc4-335ea6de0cf2.png",
+          "background": "https://images.launchbox-app.com//596c41e9-355b-4805-96cc-f7b57cfdd5f6.png",
+          "added": 1792853003469,
+          "backgroundPixelated": true
+        },
+        {
+          "props": {
+            "uid": "ff062c16-4e0e-4c75-9142-69a2348418fb",
+            "discs": [
+              "https://playgames.onl/games/psp/Burnout Legends (USA) (En,Fr,De,Es,It,Nl) (v2.00).chd"
+            ],
+            "cheat": "https://raw.githubusercontent.com/webrcade-assets/libdb/master/cht/Sony%20-%20PlayStation%20Portable/Burnout%20Legends%20%5BUS%5D%20%5BULUS-10025%5D.cht"
+          },
+          "type": "psp",
+          "title": "Burnout Legends",
+          "description": "The Burnout series goes portable with Burnout Legends for the PSP. You can play through redesigned tracks from the earlier Burnout games in nine different game modes, including Crash mode and Pursuit mode. Burnout Legends also contains new unlockable cars and content. You can challenge up to four other players to battle wirelessly in a single game or an entire customizable championship.",
+          "thumbnail": "https://images.launchbox-app.com//ed4c3474-f6db-4624-8b8d-0eafde6470b4.png",
+          "background": "https://images.launchbox-app.com//a2eec373-7314-44ae-940b-ec7fe29a8957.jpg",
+          "backgroundPixelated": true,
+          "added": 1792853129529
+        },
+        {
+          "props": {
+            "uid": "2778e358-bdd4-4b77-8317-2df4a3353d07",
+            "cheat": "https://raw.githubusercontent.com/webrcade-assets/libdb/master/cht/Sony%20-%20PlayStation%20Portable/Daxter%20%5BUS%5D%20%5BUCUS-98618%5D.cht",
+            "discs": [
+              "https://playgames.onl/games/psp/Daxter (USA) (En,Fr,De,Es,It).chd"
+            ]
+          },
+          "type": "psp",
+          "title": "Daxter",
+          "description": "Daxter is centered around the world of the lovable orange ottsel made popular in the Jak and Daxter franchise. The story unfolds as Daxter searches for Jak, who was imprisoned during the events that led to the start of \"Jak II.\" Daxter, now on his own in an unfamiliar place, quickly realizes that being small and furry won't help his chances of survival. To help stamp out a mysterious metalbug infestation, Daxter takes on a job as a pest exterminator, enabling him to explore parts of Haven City in an effort to collect the clues that will lead him to Jak.\n\nDaxter allows gamers to play from his perspective offering a distinctive set of moves with agile abilities that allows players to climb walls, creep up on enemies, fit in small places and maneuver vehicles. Taking a job as a pest exterminator, to fight an ongoing invasion of metal-bugs, Daxter comes equip with gadgets to rid the city of these metal nuisances. Get close up and personal by using your flimsy bug swatter to squash an army of attacking insects or your spray gun to hover around a variety of environments while picking up various upgrades.",
+          "thumbnail": "https://images.launchbox-app.com//dce5ec55-51d2-40da-b78b-454d967da525.png",
+          "background": "https://images.launchbox-app.com//fce7a07c-f639-4351-8338-f9bf5a37b641.jpg",
+          "added": 1792853211399,
+          "backgroundPixelated": true
+        },
+        {
+          "props": {
+            "uid": "0dde6f6f-5f4f-439d-8a3b-904277ee547e",
+            "cheat": "https://raw.githubusercontent.com/webrcade-assets/libdb/master/cht/Sony%20-%20PlayStation%20Portable/God%20Of%20War%20-%20Chains%20Of%20Olympus%20(PlayStation%20Store)%20%5BUS%5D%20%5BNPUG-80325%5D.cht",
+            "discs": [
+              "https://playgames.onl/games/psp/God of War - Chains of Olympus (USA).chd"
+            ]
+          },
+          "type": "psp",
+          "title": "God of War: Chains of Olympus",
+          "description": "The game is set in Ancient Greece and loosely based on its mythology. The player controls Kratos, a Spartan warrior in the service of the Olympian Gods. Kratos is guided by the goddess Athena, who instructs him to find the Sun God Helios, as the Dream God Morpheus has caused the remaining gods to slumber in Helios' absence. With the power of the sun, Morpheus and Persephone, the Queen of the Underworld, with the aid of the Titan Atlas, intend to destroy the Pillar of the World and in turn Olympus. God of War: Chains of Olympus is chronologically the second chapter in the series, which focuses on vengeance as its central theme.\n\nChains of Olympus is a prequel set ten years before the original God of War. Gameplay is similar to the predecessors but with some minor changes. Kratos goes through levels killing enemies and bosses, solving box-based puzzles and doing quick time events. He also collects red orbs to power up his weapons and abilities, Gorgon eyeballs to increase his health and Phoenix feathers to increase his magic power.\n\nThe game's controls were adjusted to fit the PSP's reduced amount of buttons. Both the shoulder buttons and the analog stick are now required in order to dodge. The most well-known God of War weapon, the Blades of Chaos, are also present. There are several new weapons and magic spells available, including Sun Shield, Efreet spell and Light of Dawn. The game starts when the Gods send Kratos to the city of Attica to defend it from the invading Persian army. But later when Morpheus strikes, Kratos will need to use all his power to save the world once again.",
+          "thumbnail": "https://images.launchbox-app.com//88e6c12f-5dca-42e2-84aa-2570df88d8cf.png",
+          "background": "https://images.launchbox-app.com//aaefa948-1985-4de9-92c3-199afdec5d64.png",
+          "backgroundPixelated": true,
+          "added": 1792853274661
+        },
+        {
+          "props": {
+            "uid": "6e99db41-923b-44a0-ac57-f68727d10e8f",
+            "cheat": "https://raw.githubusercontent.com/webrcade-assets/libdb/master/cht/Sony%20-%20PlayStation%20Portable/God%20Of%20War%20-%20Ghost%20Of%20Sparta%20%5BUS%5D%20%5BUCUS-98737%5D.cht",
+            "discs": [
+              "https://playgames.onl/games/psp/God of War - Ghost of Sparta (USA) (En,Fr,Es).chd"
+            ]
+          },
+          "type": "psp",
+          "title": "God of War: Ghost of Sparta",
+          "description": "Set in the realm of Greek mythology, God of War: Ghost of Sparta is a single-player game that allows players to take on the powerful role of Spartan warrior Kratos. This new adventure picks up after God of War concludes, telling the story of Kratos' ascension to power as the God of War. In his quest to rid himself of the nightmares that haunt him, Kratos must embark on a journey that will reveal the origins of lost worlds, and finally answer long-awaited questions about his dark past. Armed with the deadly chained Blades of Chaos, he will have to overcome armies of mythological monsters, legions of undead soldiers, and amazingly dangerous and brutal landscapes throughout his merciless quest.",
+          "thumbnail": "https://images.launchbox-app.com//bdbecd85-d1e6-4954-86b6-da5e1c0d20ae.png",
+          "background": "https://images.launchbox-app.com//994d4286-d4f2-4ef4-91e5-0e09b00dbbe2.png",
+          "backgroundPixelated": true,
+          "added": 1792853369379
+        },
+        {
+          "props": {
+            "uid": "4b8c995d-3f68-4c84-ac82-50a01e3517b5",
+            "cheat": "https://raw.githubusercontent.com/webrcade-assets/libdb/master/cht/Sony%20-%20PlayStation%20Portable/Gran%20Turismo%20%5BUS%5D%20%5BUCUS-98632%5D.cht",
+            "discs": [
+              "https://playgames.onl/games/psp/Gran Turismo (USA) (En,Fr,Es) (v2.00).chd"
+            ]
+          },
+          "type": "psp",
+          "title": "Gran Turismo",
+          "thumbnail": "https://images.launchbox-app.com//b9b300d9-9a89-48e8-8a37-ad1c2ed1bfd0.png",
+          "background": "https://images.launchbox-app.com//89bc39be-b4ab-4492-b579-62b112cf57cd.png",
+          "backgroundPixelated": true,
+          "description": "The game is centered on an open-ended design. The single-player menu presents players with three variables — Mode Selection (Time Trial, Single Race, and Drift Trial), Car Selection, and Track Selection. The player can pick and choose circuits and vehicles, with credits earned based on the difficulty, performance and number of laps they have chosen. Players can select from any number of laps, one to 99. There are 45 tracks (including layout variations) plus the added bonus of reverse on most tracks, which takes the track number close to 75. For the first time in the series, the game features the use of custom soundtracks that enables players to play their own songs while racing, but this option must first be unlocked by completing section B of the Driving Challenges. The music tracks can only be played if it is set on \"MUSIC folder\" and can be used for offline or online races.",
+          "added": 1792853448323
+        },
+        {
+          "props": {
+            "discs": [
+              "https://playgames.onl/games/psp/Grand Theft Auto - Chinatown Wars (USA).chd"
+            ],
+            "uid": "2bb912e2-0574-450d-9421-8cb38760d5bb",
+            "cheat": "https://raw.githubusercontent.com/webrcade-assets/libdb/master/cht/Sony%20-%20PlayStation%20Portable/Grand%20Theft%20Auto%20-%20Chinatown%20Wars%20%5BUS%5D%20%5BULUS-10490%5D.cht"
+          },
+          "type": "psp",
+          "title": "GTA: Chinatown Wars",
+          "longTitle": "Grand Theft Auto: Chinatown Wars",
+          "description": "Grand Theft Auto: Chinatown Wars follows the story of Huang Lee, a young Triad who travels to Liberty City after the mysterious death of his father. Within the game, players will navigate their way through the streets as they uncover the truth behind an epic tale of crime and corruption within the Triad crime syndicate, delivering the unprecedented amount of depth that has become a true trademark of the franchise.\n\nSpecifically built for the PSP platform with upscaled widescreen graphics, enhanced lighting and animation; and including all-new story missions; this version of Grand Theft Auto: Chinatown Wars will take full advantage of the power of the PSP system.",
+          "thumbnail": "https://images.launchbox-app.com//3fe3754b-fd70-479f-b289-ac31e84592d8.png",
+          "background": "https://images.launchbox-app.com//b2af3278-99a1-4574-9b5c-aa0b0051cb2c.jpg",
+          "added": 1792715642899,
+          "backgroundPixelated": true
+        },
+        {
+          "props": {
+            "uid": "84bef874-6f5a-4428-aa00-9eb985742363",
+            "cheat": "https://raw.githubusercontent.com/webrcade-assets/libdb/master/cht/Sony%20-%20PlayStation%20Portable/Grand%20Theft%20Auto%20-%20Liberty%20City%20Stories%20(v1.00-3.00)%20%5BUS%5D%20%5BULUS-10041%5D.cht",
+            "discs": [
+              "https://playgames.onl/games/psp/Grand Theft Auto - Liberty City Stories (USA) (En,Fr,De,Es,It) (v3.00).chd"
+            ]
+          },
+          "type": "psp",
+          "title": "GTA: Liberty City Stories",
+          "longTitle": "Grand Theft Auto: Liberty City Stories",
+          "description": "There are a million stories in Liberty City. This one changes everything. Once a trusted wise guy in the Leone crime family, Toni Cipriani was forced into hiding after killing a made man. Now he's back and it's time for things to be put right. The streets of Liberty City are in turmoil. Warring mafiosi vie for control as the town begins to self-destruct under waves of political corruption, organized crime, drug trafficking and union strikes. No one can be trusted as Toni tries to clean up the mess of the city's chaotic underworld. Deranged hit men, morally depraved tycoons, cynical politicians and his own mother stand in his way as Toni tries to bring the city under Leone control. Forced to fight for his life in an odyssey that will shake Liberty City to its foundations, Toni must use any means necessary to secure his place in the leadership of the Leone family in a town up for grabs.",
+          "thumbnail": "https://images.launchbox-app.com//6e12dbbd-d6ab-4b2c-bc93-b81e0e7fc757.png",
+          "background": "https://images.launchbox-app.com//4975608d-1ea6-4f22-9ad8-9894a9342eab.png",
+          "backgroundPixelated": true,
+          "added": 1792853534056
+        },
+        {
+          "props": {
+            "uid": "2e15c1a0-7e57-4f25-9cc1-47a3f90ede02",
+            "discs": [
+              "https://playgames.onl/games/psp/Grand Theft Auto - Vice City Stories (USA).chd"
+            ],
+            "cheat": "https://raw.githubusercontent.com/webrcade-assets/libdb/master/cht/Sony%20-%20PlayStation%20Portable/Grand%20Theft%20Auto%20-%20Vice%20City%20Stories%20%5BUS%5D%20%5BULUS-10160%5D.cht"
+          },
+          "type": "psp",
+          "longTitle": "Grand Theft Auto: Vice City Stories",
+          "title": "GTA: Vice City Stories",
+          "description": "Vice City, 1984. Opportunity abounds in a city emerging from the swamps, its growth fueled by the violent power struggle in a lucrative drug trade. Construction is everywhere as a shining metropolis rises from foundations of crime and betrayal.\n\nAs a soldier, Vic Vance has always protected his dysfunctional family, his country, and himself. One bad decision later and that job is about to get much harder. Kicked out onto the streets of a city torn between glamor and gluttony, Vic is faced with a stark choice: build an empire or be crushed.\n\nGTA: VCS is the PlayStation Portable follow-up to Rockstar's monumental handheld entry in the series, Grand Theft Auto: Liberty City Stories. As in Liberty City Stories, this game ventures back to the location of the second PS2 game.",
+          "thumbnail": "https://images.launchbox-app.com//4e9d1a43-a1bb-4634-b709-e0f5b4c55aef.jpg",
+          "background": "https://images.launchbox-app.com//18a056d0-1dba-4529-89dd-45c93dce7d13.png",
+          "backgroundPixelated": true,
+          "added": 1792853707073
+        },
+        {
+          "props": {
+            "uid": "b2c8dad7-f2be-4343-811a-28108e15fd1c",
+            "discs": [
+              "https://playgames.onl/games/psp/Metal Gear Solid - Peace Walker (USA) (En,Fr,Es) (v1.01).chd"
+            ],
+            "cheat": "https://raw.githubusercontent.com/webrcade-assets/libdb/master/cht/Sony%20-%20PlayStation%20Portable/Metal%20Gear%20Solid%20-%20Peace%20Walker%20%5BUS%5D%20%5BULUS-10509%5D.cht"
+          },
+          "type": "psp",
+          "title": "Metal Gear Solid: Peace Walker",
+          "description": "After the events of Metal Gear Solid 3, Snake isolates himself from the United States and sets up home in Colombia. Here, he creates Militaires Sans Frontières, a private military group that provides support for countries in need.\n\nOne day, Snake is introduced to Ramón Gálvez, a peace teacher, and his student, Paz Ortega. The two want to ask for Militaires Sans Frontières hand in helping the country of Costa Rica. Recently, an unknown armed force with high-tech weapons has been creating trouble around the country and because Costa Rica's constitution forbids a military army, there's nothing anybody can do about it. Snake at first refuses to help, believing that it may cause more tension in Latin America, but after listening to one of Gálvez's cassette tapes, Snake faintly hears a voice similar to the one from The Boss in the recording. Believing that The Boss could still be alive, Snake agrees on Gálvez's offering. Then, Snake sets out on a journey, a journey to not only bring peace back to the land of Costa Rica, but also bring peace upon himself.\n\nNear the start of the game you will be given a central mother base to use for a number of different things. It is here where you can save your game, develop weapons, and play story or side missions. Developing and upgrading weapons is done by spending currency known as GMP, which you obtain doing missions. At Mother Base you will be able to assign your MSF staff into different teams depending on their abilities and skills. Putting the right people in the right place will open up more opportunities to develop more items and weapons.\n\nMetal Gear Solid: Peace Walker's story will explain the events which lead to Militaires Sans Frontières becoming Outer Heaven in later games, and Snake finally accepting his role as Big Boss.",
+          "thumbnail": "https://gamesdb-images.launchbox.gg/r2_ab94837a-7db3-4ee3-bfce-eea601aed3a8.png",
+          "background": "https://images.launchbox-app.com//2d5c2d39-fceb-49ed-8f83-1178d69b2a87.png",
+          "added": 1792853790773,
+          "backgroundPixelated": true
+        },
+        {
+          "props": {
+            "uid": "01835548-04d1-409e-911d-a819f16553bf",
+            "cheat": "https://raw.githubusercontent.com/webrcade-assets/libdb/master/cht/Sony%20-%20PlayStation%20Portable/Patapon%20%5BUS%5D%20%5BUCUS-98711%5D.cht",
+            "discs": [
+              "https://playgames.onl/games/psp/Patapon (USA).chd"
+            ]
+          },
+          "type": "psp",
+          "title": "Patapon",
+          "description": "The Patapon tribe were once an incredible force to be reckoned with, guided by their god, Almighty. No foe was too great, no treasure out of reach, as they searched for the fabled Earthend. However, these days are long gone, and the Patapons are now a shadow of their former selves. Take on the role of Almighty, and restore the Patapons to their former glory!\n\nPatapon is a hybrid of a rhythm game such as PaRappa the Rapper and a strategy game with unit management such as Advance Wars. Players control 'Almighty', the Patapons' god, as they guide them in search of Earthend. This is done with the Circle, X, Square and Triangle buttons - each button corresponds with a different type of drum beat. By pressing different sets of four beats, the Patapons will repeat the beat, and then perform the action, such as advancing, retreating or attacking. If the player continues to perform beats without messing up, they enter 'Fever' Mode, which makes the Patapons perform their actions stronger and faster.\n\nBy collecting assorted items, such as meat and wood, and spending Ka-ching (the game's currency) players can create new Patapon units at the Tree of Life. These units can then be prepared for battle before the player enters a stage, to give them better armor, shields, and weapons, which will help them fight more effectively against their foes.",
+          "thumbnail": "https://images.launchbox-app.com//51775e65-a2a8-42b3-86f2-e30bee8505ea.png",
+          "background": "https://images.launchbox-app.com//f071bdf7-b35e-4c6a-a671-00c861c0ca2c.jpg",
+          "added": 1792853847631,
+          "backgroundPixelated": true
+        },
+        {
+          "props": {
+            "uid": "6be7836c-d151-4351-8d5a-1df15892e541",
+            "discs": [
+              "https://playgames.onl/games/psp/Shin Megami Tensei - Persona 3 Portable (USA).chd"
+            ],
+            "cheat": "https://raw.githubusercontent.com/webrcade-assets/libdb/master/cht/Sony%20-%20PlayStation%20Portable/Shin%20Megami%20Tensei%20-%20Persona%203%20Portable%20%5BUS%5D%20%5BULUS-10512%5D.cht"
+          },
+          "type": "psp",
+          "title": "Persona 3 Portable",
+          "longTitle": "Shin Megami Tensei: Persona 3 Portable",
+          "description": "Shin Megami Tensei: Persona 3 Portable is a single player, team-based RPG that brings the thought-provokingly addictive fun that made Persona 3 a runaway hit on PlayStation 2 to PlayStation Portable. The game contains most of the content from the original Persona 3 as well as some elements of Persona 3: FES, and features the new and abilities to play as a female character and to directly control your teammates in combat. Additional functionality includes Skill Cards, part-time jobs, one-button menu shortcuts, streamlined team equipment changes and shortened load screens optimized for PSP.",
+          "thumbnail": "https://images.launchbox-app.com//15a1c792-249f-4281-baf6-f4548a5d284c.jpg",
+          "background": "https://images.launchbox-app.com//8071221b-23a9-4fdd-b721-f4e8acba0f3d.jpg",
+          "backgroundPixelated": true,
+          "added": 1792853918108
+        },
+        {
+          "props": {
+            "uid": "50eacdc4-4842-45be-8ea0-654f0c82f19d",
+            "discs": [
+              "https://playgames.onl/games/psp/Silent Hill Origins (USA) (En,Fr,De,Es,It).chd"
+            ],
+            "cheat": "https://raw.githubusercontent.com/webrcade-assets/libdb/master/cht/Sony%20-%20PlayStation%20Portable/Silent%20Hill%20-%20Origins%20%5BUS%5D%20%5BULUS-10285%5D.cht"
+          },
+          "type": "psp",
+          "title": "Silent Hill: Origins",
+          "description": "The renowned Silent Hill survival horror series makes its handheld gaming debut with a brand new adventure that reveals many of the series' most hallowed secrets. Assuming the role of Travis Grady, a lone truck driver trapped in Silent Hill while making a routine delivery, players must escape the city's horrific inhabitants and confront the strange hallucinations that have haunted Travis since childhood. Taking full advantage of the PSP system's graphics, sound, and portability, Silent Hill Origins sets a new standard in handheld gaming terror.",
+          "thumbnail": "https://images.launchbox-app.com//e39a5348-235d-42af-9ae2-17baef0a9328.png",
+          "background": "https://images.launchbox-app.com//d8b73e28-15bf-452c-aab5-ea0001d8207d.png",
+          "backgroundPixelated": true,
+          "added": 1792853981866
+        },
+        {
+          "props": {
+            "uid": "560da0c3-d6a6-42ce-a4ff-b47ad7b43738",
+            "discs": [
+              "https://playgames.onl/games/psp/Tekken 6 (USA) (En,Ja,Fr,De,Es,It,Ko,Ru).chd"
+            ],
+            "cheat": "https://raw.githubusercontent.com/webrcade-assets/libdb/master/cht/Sony%20-%20PlayStation%20Portable/Tekken%206%20%5BUS%5D%20%5BULUS-10466%5D.cht"
+          },
+          "type": "psp",
+          "title": "Tekken 6",
+          "description": "A must-have for Tekken aficionados, TEKKEN 6 sees the return of many familiar faces as well as new characters to create the largest line-up the series has ever seen. With a growing roster of fighters, each equipped with their own deadly techniques, moves and attack combinations, TEKKEN 6 will be the best King of Iron Fist Tournaments yet. Adding to the already rich gaming experience, a deeper character customization feature will only further enhance the incredible fighting intensity as players go mano-a-mano. Players can also take the battle online for classic match-ups and to compete for world domination.",
+          "thumbnail": "https://images.launchbox-app.com//6d78ca6f-58bd-4215-8b38-aabb95e59124.png",
+          "background": "https://images.launchbox-app.com//4b7e514f-96b8-46ca-b0b5-a5a8fb3c2206.png",
+          "backgroundPixelated": true,
+          "added": 1792854101851
+        },
+        {
+          "props": {
+            "uid": "ec71e942-f40b-4465-b27d-c09c353a51fd",
+            "discs": [
+              "https://playgames.onl/games/psp/Tekken - Dark Resurrection (USA) (En,Fr,De,Es,It).chd"
+            ],
+            "cheat": "https://raw.githubusercontent.com/webrcade-assets/libdb/master/cht/Sony%20-%20PlayStation%20Portable/Tekken%20-%20Dark%20Resurrection%20%5BUS%5D%20%5BULUS-10139%5D.cht"
+          },
+          "type": "psp",
+          "title": "Tekken: Dark Resurrection",
+          "description": "A handheld version of Namco's venerated fighting series, this PSP game is based on the arcade expansion to Tekken 5. Dark Resurrection features over 30 characters, including Dragonuv and Lili, the two new characters that were added for the Dark Resurrection arcade update. Also making the trip over from the arcade are new stages, themselves based off the original Tekken 5 stages, but with climate and time effects as well as new background objects, totalling 19 stages. Namco has a few additions exclusively for the PSP version as well. Look forward to new game modes, including time attack, practice and mini games, while ad-Hoc wireless play allows for multplayer bouts. Namco hopes to add new items to the game, perfect for creating custom characters prior to a match.",
+          "thumbnail": "https://images.launchbox-app.com//849aafef-71b3-453a-aeee-a336745545d0.jpg",
+          "background": "https://images.launchbox-app.com//571969d2-7d0d-4ad6-9267-efa50026b470.png",
+          "backgroundPixelated": true,
+          "added": 1792854050858
+        },
+        {
+          "props": {
+            "uid": "fdd1a1ee-1aaa-4f45-ad1a-1b64d657bebf",
+            "cheat": "https://raw.githubusercontent.com/webrcade-assets/libdb/master/cht/Sony%20-%20PlayStation%20Portable/Twisted%20Metal%20-%20Head-On%20%5BUS%5D%20%5BUCUS-98601%5D.cht",
+            "discs": [
+              "https://playgames.onl/games/psp/Twisted Metal - Head-On (USA).chd"
+            ]
+          },
+          "type": "psp",
+          "title": "Twisted Metal: Head-On",
+          "description": "Calypso has once again started up the Twisted Metal tournament, and you are invited with this 7th installment.\n\nPlay as 13 characters new and old, in any battle. Take on your opponents in various cities, from Egypt and Tokyo to Paris and New York. There are a variety of weapons at your disposal, including missiles, guns, napalm bombs, remote detonators, and environmental attacks. Battle your way through different cities in order to confront the final contender, and win your reward. Every racer has a reason for being in the Twisted Metal tournament. Only by winning it will you see why.\n\nPlay mini games like racing, tank battling, and destruction courses in the game for fun or to unlock new levels and characters.\n\nPeople familiar to the series, this game is an alternate ending to Twisted Metal 2 for the Sony playstation with the characters movies at the end of the game that connect, 989 studies made an also alternate ending with Twisted Metal 3 for the Sony playstation.",
+          "thumbnail": "https://images.launchbox-app.com//37231a31-8cf0-41aa-9583-0c222af9f741.jpg",
+          "background": "https://images.launchbox-app.com//f8685ca9-4efe-4201-8470-bff9b87389dd.png",
+          "backgroundPixelated": true,
+          "added": 1792854175013
+        }
+      ]
     },
     {
       "title": "Nintendo GBA",
